@@ -53,7 +53,7 @@ export function ToDoList() {
             <div>
                 <input 
                     type="text" 
-                    placeholder="Enter your tast here"
+                    placeholder="Enter your task here"
                     value={newTask} 
                     onChange={handleChangeInput}/>
                 <button 
