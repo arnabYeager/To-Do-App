@@ -7,7 +7,7 @@ A simple and interactive To-Do application built using React and Vite.
 - Filter tasks by status
 - Responsive design
 
-<a href="https://arnabyeager.github.io/To-Do-App"><strong>➥ Live Demo</strong></a>
+<a href="https://arnabyeager.github.io/To-Do-app/"><strong>➥ Live Demo</strong></a>
 
 ## Prerequisites
 - A modern web browser
